@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RestServer IN6BM
 
 Este es un restServer con conección a mongoDB
@@ -9,3 +10,7 @@ Para instalar los modulos de node ejecutar el comando
 ```
 npm install
 ```
+=======
+# Rest-Server-IN6CV
+BackEnd HeroesApp
+>>>>>>> 3c2587c6a48847c9a0342078ef84cba60a168ecb
